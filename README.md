@@ -12,6 +12,17 @@ Dependencies
 * extjs 3.4.0
 * openlayers
 
-The depdencies can be found at
+The dependencies can be found at
 
-(http://www.github.com
+[release 0.1](https://github.com/IlyaLab/trel/releases/tag/0.1)
+
+visquick and openlayers should be unzipped into the webapp/js folder.  the subfolders will be
+visquick-core-1.0
+openlayers
+
+3d and extjs should be unzipped into the webapp/ folder.  the subfolders will be
+extjs/3.4.0/...
+3d/
+
+The underlying data tables are served through a Java Web Application layer (Google Data Service API) that connects to a Mysql backend.
+
