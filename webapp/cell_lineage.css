@@ -1,0 +1,45 @@
+
+     /*icons*/
+        .cell { background: url(images/cell.png) 0 0 no-repeat !important;  }
+        .gene { background:url(images/helix.png) 0 0 no-repeat !important;  }
+        .heatmap { background:url(images/map_magnify.png)  0 0 no-repeat !important;  }
+        .lookup { background:url(images/magnifier.png) 0 0 no-repeat !important;  }
+       .tools { background:url(images/bullet_wrench.png) 0 0 no-repeat !important;  }
+        .legend { background:url(images/compass.png) 0 0 no-repeat !important;  }
+        .details { background:url(images/zoom.png)  0 0 no-repeat !important;  }
+        .table { background:url(images/table.png) 0 0 no-repeat !important;  }
+        .download { background:url(images/table_go.png) 0 0 no-repeat !important;  }
+        .gallery { background:url(images/color_swatch.png) 0 0 no-repeat !important;  }
+
+        /*lightbox styling*/
+            .thumbnail {
+            	padding: 5px;
+            	background-color: #e6e6e0;
+            	border: 1px solid #d6d6d0;
+            	float: left;
+            	margin-right: 10px;
+            	margin-bottom: 10px;
+        	}
+
+    .thumb{
+    padding: 3px;
+    height:170px;
+    width:170px;
+     background:#dddddd;
+}
+    .thumb-wrap{
+    float: left;
+    margin: 4px;
+    margin-right: 0;
+    padding: 5px;
+}
+ .thumb-wrap span {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+ .x-item-over{
+    border:1px solid #99bbe8;
+    background: #88ccfb;
+    padding: 4px;
+ }
